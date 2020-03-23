@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mphase.stock.StockApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.023 s - in com.mphase.stock.StockApplicationTests

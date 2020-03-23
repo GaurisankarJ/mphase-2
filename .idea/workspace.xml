@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="368b6b3a-e53f-4cdc-adec-9d6a8a774fb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mphase/stock/utility/StockUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mphase/stock/StockConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mphase/stock/StockConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mphase/stock/controller/StockController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mphase/stock/controller/StockController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mphase/stock/model/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mphase/stock/model/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mphase/stock/repository/StockRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mphase/stock/repository/StockRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mphase/stock/service/StockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mphase/stock/service/StockService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mphase/stock/service/impl/StockServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mphase/stock/service/impl/StockServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZUEjEfec2LdCHDrUB9mE7H8g0V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="StockApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stock" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mphase.stock.StockApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="368b6b3a-e53f-4cdc-adec-9d6a8a774fb0" name="Default Changelist" comment="" />
+      <created>1584885405584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584885405584</updated>
+      <workItem from="1584885406988" duration="19777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="430" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584965022591">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="430" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1584965022591" />
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1584971062828">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584971062828" />
+    <state x="472" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584894346323">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="472" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1584894346323" />
+    <state width="1398" height="139" key="GridCell.Tab.0.bottom" timestamp="1584972085163">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584972085163" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1584971811169" />
+    <state width="1398" height="139" key="GridCell.Tab.0.center" timestamp="1584972085162">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584972085162" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1584971811165" />
+    <state width="1398" height="139" key="GridCell.Tab.0.left" timestamp="1584972085161">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584972085161" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1584971811165" />
+    <state width="1398" height="139" key="GridCell.Tab.0.right" timestamp="1584972085163">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584972085163" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1584971811168" />
+    <state width="1398" height="139" key="GridCell.Tab.1.bottom" timestamp="1584972085165">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584972085165" />
+    <state width="1398" height="2" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1584971811171" />
+    <state width="1398" height="139" key="GridCell.Tab.1.center" timestamp="1584972085164">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584972085164" />
+    <state width="1398" height="2" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1584971811170" />
+    <state width="1398" height="139" key="GridCell.Tab.1.left" timestamp="1584972085164">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584972085164" />
+    <state width="1398" height="2" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1584971811169" />
+    <state width="1398" height="139" key="GridCell.Tab.1.right" timestamp="1584972085165">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584972085165" />
+    <state width="1398" height="2" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1584971811171" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1584962026228">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1584962026228" />
+    <state x="378" y="85" width="683" height="729" key="find.popup" timestamp="1584897663282">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="85" width="683" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1584897663282" />
+    <state x="482" y="74" key="refactoring.ChangeSignatureDialog" timestamp="1584962940175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="74" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1584962940175" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584966004741">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584966004741" />
+  </component>
+</project>
