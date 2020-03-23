@@ -1,5 +1,12 @@
 # Spring Boot Server for API calls to Mongo Collections
 
+# Swagger
+
+> You can access both the API's on Swagger
+```
+http://localhost:8080/swagger-ui.html
+```
+
 ## Run [In stock folder]
 
 ```
