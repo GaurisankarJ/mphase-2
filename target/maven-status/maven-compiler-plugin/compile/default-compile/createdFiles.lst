@@ -5,3 +5,4 @@ com/mphase/stock/StockConfig.class
 com/mphase/stock/service/StockService.class
 com/mphase/stock/controller/StockController.class
 com/mphase/stock/model/Stock.class
+com/mphase/stock/SwaggerConfig.class
